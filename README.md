@@ -8,7 +8,6 @@
 ## Installation
 ```
 npm install
-elm-package install
 ```
 
 ## Run dev server
