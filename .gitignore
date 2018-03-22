@@ -6,3 +6,4 @@ repl-temp-*
 .DS_Store
 #npm
 node_modules
+*.log
